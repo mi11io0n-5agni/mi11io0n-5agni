@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning computer science<br>🎯 Goals: biulding something real app<br>🎲 Fun fact: tech</p>
+<p align="left">✨ I learning web development  since 2025 <br>📚 I'm currently learning computer science<br>🎯 Goals: biulding something real app<br>🎲 Fun fact: tech</p>
 
 ###
 
