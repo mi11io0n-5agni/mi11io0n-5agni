@@ -4,7 +4,7 @@
 
 ---
 
-<!-- Banner (optional but highly recommended) -->
+<!-- Banner (optional) -->
 <p align="center">
   <img src="https://i.imgur.com/your-banner-image.png" alt="banner" />
 </p>
@@ -54,18 +54,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
 
 </div>
 
 ---
 
 ## 📂 Featured Projects
-
-> Replace these with your real projects
 
 - 🔹 **Project One** – Short description of what it does  
 - 🔹 **Project Two** – What problem it solves  
@@ -85,8 +83,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/your-profile">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -96,5 +94,3 @@
 ## 🐍 Contribution Graph
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
----
