@@ -1,20 +1,15 @@
-<h1 align="center">Hey 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey 👋, I'm Milion Sagni</h1>
 
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h3 align="center">A passionate developer from Ethiopia</h3>
 
 ---
-
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="banner" />
-</p>
 
 ---
 
 ## 🚀 About Me
 
 - 💻 I enjoy building web apps and learning new tech  
-- 🌱 Currently working with Java, Node.js, and frontend tools  
+- 🌱 Currently working with javascript, React,Node.js, and etc. 
 - 🔧 I like turning ideas into real projects  
 - 🎯 Focused on improving my full-stack development skills  
 - ⚡ Fun fact: I enjoy solving problems more than just writing code  
@@ -65,9 +60,9 @@
 
 ## 📂 Featured Projects
 
-- 🔹 **Project One** – Short description of what it does  
-- 🔹 **Project Two** – What problem it solves  
-- 🔹 **Project Three** – Tech used + highlight feature  
+- 🔹 Apple Website UI – Frontend project built with React   
+- 🔹 Portfolio Website – Responsive personal site to present my work and skills  
+- 🔹 API Weather App – Real-time weather app using external API integration   
 
 ---
 
@@ -75,15 +70,15 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/your-link">
+<a href="linkedin.com/in/miliondev430">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="milionsagni1995@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://my-portfolio-plum-five-65.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
